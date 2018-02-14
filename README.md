@@ -8,3 +8,7 @@ Since it's my second branch I would like to test two things:
 2) removing some text to see the "red color" in GitHub
 
 Cheers bros!!
+
+super zmiana
+
+
